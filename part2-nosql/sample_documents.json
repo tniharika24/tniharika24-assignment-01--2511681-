@@ -1,0 +1,27 @@
+[
+  {
+    "order_id": "ORD1027",
+    "customer": {
+      "customer_id": "C002",
+      "name": "Priya Sharma",
+      "email": "priya@gmail.com",
+      "city": "Delhi"
+    },
+    "products": [
+      {
+        "product_id": "P004",
+        "product_name": "Notebook",
+        "category": "Stationery",
+        "unit_price": 120,
+        "quantity": 4
+      }
+    ],
+    "order_date": "2023-11-02",
+    "sales_rep": {
+      "sales_rep_id": "SR02",
+      "name": "Anita Desai",
+      "email": "anita@corp.com",
+      "office": "Delhi Office"
+    }
+  }
+]
