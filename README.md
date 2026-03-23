@@ -1,37 +1,18 @@
 # tniharika24-assignment-01--2511681-
-│
-├── README.md                          ← This file (do not modify)
-│
-├── datasets/                          ← Provided datasets (do not modify)
-│   ├── orders_flat.csv
-│   ├── retail_transactions.csv
-│   ├── customers.csv
-│   ├── orders.json
-│   └── products.parquet
-│
-├── part1-rdbms/
-│   ├── schema_design.sql
-│   ├── queries.sql
-│   └── normalization.md
-│
-├── part2-nosql/
-│   ├── mongo_queries.js
-│   ├── sample_documents.json
-│   └── rdbms_vs_nosql.md
-│
-├── part3-datawarehouse/
-│   ├── star_schema.sql
-│   ├── dw_queries.sql
-│   └── etl_notes.md
-│
-├── part4-vector-db/
-│   ├── embeddings_demo.ipynb
-│   └── vector_db_reflection.md
-│
-├── part5-datalake/
-│   ├── duckdb_queries.sql
-│   └── architecture_choice.md
-│
-└── part6-capstone/
-    ├── architecture_diagram.png
-    └── design_justification.md
+# Assignment 01
+
+## Name: T. Niharika
+## Student ID: 2511681
+
+## Structure
+This project contains:
+- Part 1: RDBMS (SQL)
+- Part 2: NoSQL (MongoDB)
+- Part 3: Data Warehouse
+- Part 4: Vector Database
+- Part 5: Data Lake (DuckDB)
+- Part 6: System Design
+
+## Notes
+All datasets were provided and not modified.
+Each part is completed in its respective folder.
